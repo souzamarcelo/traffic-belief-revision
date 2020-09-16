@@ -30,6 +30,6 @@ Please, make sure to reference us if you use FuzzyStudio in your research.
 
 **Maintainer:** [Marcelo de Souza](https://souzamarcelo.github.io)
 
-**Contributors:** [Adilson Vahldick](https://sites.google.com/site/adilsonv77) and [Adolfo Rodríguez de Soto](https://orcid.org/0000-0002-3478-4590)
+**Contributors:** [Andrew Koster](https://www.andrewkoster.net) and [Ana Bazzan](https://www.inf.ufrgs.br/~bazzan)
 
 **Contact:** marcelo.desouza@udesc.br
