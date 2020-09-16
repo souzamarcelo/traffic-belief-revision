@@ -22,7 +22,7 @@ An agent-based simulation of a collaborative traffic scenario; agents use a non-
 }
 ```
 
-Please, make sure to reference us if you use FuzzyStudio in your research.
+Please, make sure to reference us if you use our methods in your research.
 
 ***
 
