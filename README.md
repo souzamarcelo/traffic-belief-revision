@@ -9,7 +9,7 @@ An agent-based simulation of a collaborative traffic scenario; agents use a non-
 
 **Bibtex**
 
-```
+```bibtex
 @article{KosterEtAl2017aire,
   title     = {Liar liar, pants on fire; or how to use subjective logic and argumentation to evaluate information from untrustworthy sources},
   author    = {Koster, Andrew and Bazzan, Ana and Souza, Marcelo},
